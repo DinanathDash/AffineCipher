@@ -55,5 +55,3 @@ public class AffineCipher {
 
 
 // DINANATH DASH
-// SEC - 2241026
-// REGD NO. - 2241004161
